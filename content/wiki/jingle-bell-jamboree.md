@@ -1,15 +1,17 @@
 +++
-title = "Jingle Bell Jamboree"
 draft = false
-tags = ["Animatronic Shows"]
-categories = ["Creative Engineering"]
-
-
+title = "Jingle Bell Jamboree / Santa Claus Revue"
 startDate = ""
 endDate = ""
-contributors = ["FileFickle"]
-citations = []
 pageThumbnailFile = "ADfK6_6FOLnt0VhBF1G2.avif"
+contributors = ["FileFickle"]
+citations = ["https://www.youtube.com/watch?v=P_xrIayIsV8&ab_channel=TheRock-afireExplosion"]
+manufacturer = "Creative Engineering Inc"
+unitsProduced = "1"
+storeNumber = "Santa's Village - 528 Presidential Hwy, Jefferson, NH 03583, United States"
+mediaDuration = "CEI Show: 1977 to 2006"
+tags = ["Animatronic Shows"]
+categories = ["Creative Engineering"]
 +++
 
 ## Videos
