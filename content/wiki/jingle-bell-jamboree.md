@@ -4,7 +4,7 @@ title = "Jingle Bell Jamboree / Santa Claus Revue"
 startDate = ""
 endDate = ""
 pageThumbnailFile = "ADfK6_6FOLnt0VhBF1G2.avif"
-contributors = ["FileFickle"]
+contributors = ["FileFickle", "aaaItsPip"]
 citations = ["https://www.youtube.com/watch?v=P_xrIayIsV8&ab_channel=TheRock-afireExplosion"]
 manufacturer = "Creative Engineering Inc"
 unitsProduced = "1"
